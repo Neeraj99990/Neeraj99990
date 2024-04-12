@@ -1,3 +1,4 @@
+![Banner](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRCxl7GGxflQoamqaucgrH0IikHkeGrPHycfiCBAN8lU4ES7LEPkhwMOKkctGsQvP9kZXP3J5qN-xVAItkFi0er8kuJs26gVf2kwAjKcl7EeLvBSkwXveqWpWMx_kD8lryE1hmUdyk6HWJCNo_eaJ7GjoyW6UQVEfddVUJWdbrID7p30qxB3p3B22y/s1600/Android%20Devs%20Banner%20.png)
 
 <h1 align="center">Hi 👋, I'm Neeraj Verma</h1>
 <h3 align="center">A passionate Software developer and Database devloper from India</h3>
@@ -46,9 +47,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Niraj"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Niraj" /></a><a href="https://ko-fi.com/Niraj"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Niraj" /></a></p><br><br>
+<img align="right" alt="Coding" width="1000" 
+src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niraj99990&show_icons=true&locale=en&layout=compact" alt="niraj99990" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niraj99990&show_icons=true&locale=en" alt="niraj99990" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niraj99990&" alt="niraj99990" /></p>
